@@ -5,7 +5,7 @@
 kubectl apply -f metrices.yaml
 ```
 ```shell script
-kubectl apply -f https://raw.githubusercontent.com/RadhaKrishna0018/kubernetes-commands/master/metrices.yaml
+kubectl apply -f https://raw.githubusercontent.com/blinqnet/blinq-public-k8s/master/metrices.yaml
 ```
 ### Installation of kubectl krew and kubectl kube-capacity plugins
 
